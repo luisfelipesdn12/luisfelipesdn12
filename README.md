@@ -8,7 +8,6 @@
 
 ---
 ### Most used languages:
-> Complete > Without Jupyer Notebook > Without HTML
 
 #### Without Jupyter Notebook and HTML:
 ![Most used languages without HTML](https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipesdn12&hide=Jupyter%20Notebook,HTML&hide_title=true)
