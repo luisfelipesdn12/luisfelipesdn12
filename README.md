@@ -7,6 +7,10 @@
 - ⌨️ I would love to start working and getting experiences
 
 ---
+### Github Stats:
+![Github Stats](https://github-readme-stats.vercel.app/api/?username=luisfelipesdn12)
+
+---
 ### Most used languages:
 
 #### Without Jupyter Notebook and HTML:
@@ -21,7 +25,3 @@
 <details> <summary>View</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipesdn12&hide_title=true">
 </details>
-
----
-### Github Stats:
-![Github Stats](https://github-readme-stats.vercel.app/api/?username=luisfelipesdn12)
