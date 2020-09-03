@@ -7,17 +7,21 @@
 - ⌨️ I would love to start working and getting experiences
 
 ---
-### Contact:
-📧 [luisfelipesdn12@gmail.com](mailto:luisfelipesdn12@gmail.com)
-
----
 ### Most used languages:
 > Complete > Without Jupyer Notebook > Without HTML
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipesdn12">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipesdn12&hide=Jupyter%20Notebook">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipesdn12&hide=Jupyter%20Notebook,HTML">
-</div>
+
+#### Without Jupyter Notebook and HTML:
+![Most used languages without HTML](https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipesdn12&hide=Jupyter%20Notebook,HTML&hide_title=true)
+
+#### Without Jupyer Notebook:
+<details> <summary>View</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipesdn12&hide=Jupyter%20Notebook&hide_title=true">
+</details>
+
+#### Complete:
+<details> <summary>View</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipesdn12&hide_title=true">
+</details>
 
 ---
 ### Github Stats:
