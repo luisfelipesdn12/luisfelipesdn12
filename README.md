@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://luisfelipesdn12.now.sh/" target="_blank">
-      <img src="https://img.icons8.com/fluent/240/000000/website.png" alt="website logo" width="50">
+    <img src="https://img.icons8.com/fluent/48/000000/domain.png" width="50" />
   </a>
   <a href="mailto:luisfelipesdn12@gmail.com" target="_blank">
       <img src="https://img.icons8.com/fluent/240/000000/gmail.png" alt="gmail logo" width="50">
