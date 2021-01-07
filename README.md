@@ -16,11 +16,10 @@
   </a>
 </p>
 
-- 📝 I'm currently studying Golang
+- 📝 I'm currently studying Typescript and GraphQL
 - ✔️ I've recently concluded a Backend Course [![check-certficate-badge](https://img.shields.io/badge/check-certificate-blue)](https://certificates.digitalinnovation.one/6CB93EFF)
 - 🎞️ I've gotten to programming from a video editing and design background
 - 🌐 My main language is python, but I also love work with Go, Java and JavaScript
-- ⌨️ I would love to start working and getting experiences
 
 ---
 ### Skills:
