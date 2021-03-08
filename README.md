@@ -1,8 +1,4 @@
-<h1 align="center">Hello, I'm Luis Felipe!</h1>
-
-<p align="center">
-  <b>I'm a computer science student and I can code for: automations, websites, machine learning, APIs and data science. My main languages are Python, Java and Go.</b>
-</p>
+![Hello, I'm Luis Felipe! I'm a computer science student and I can code for: automations, websites, machine learning, APIs and data science. My main languages are Python, Java and Go.](https://i.ibb.co/3cstBqg/image.png)
 
 <p align="center">
   <a href="https://luisfelipesdn12.now.sh/" target="_blank">
