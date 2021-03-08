@@ -46,13 +46,3 @@
 ---
 ### Github Stats:
 ![Github Stats](https://github-readme-stats.vercel.app/api/?username=luisfelipesdn12)
-
----
-<h1 align="center">Check out my website!</h1>
-
-<p align="center">👇 Click down bellow! 👇</p>
-<a href="https://luisfelipesdn12.now.sh/">
-  <p align="center">
-    <img src="https://luisfelipesdn12.now.sh/assets/initial-state.png" alt="Click here to access the website!">
-  </p>
-</a>
