@@ -1,4 +1,5 @@
-![Hello, I'm Luis Felipe! I'm a computer science student and I can code for: automations, websites, machine learning, APIs and data science. My main languages are Python, Java and Go.](https://i.ibb.co/3cstBqg/image.png)
+![Hello, I'm Luis Felipe! I'm a computer science student and I can code for: automations, websites, machine learning, APIs and data science. My main languages are Python, TypeScript and Go.](https://user-images.githubusercontent.com/60361387/116454418-5902fb00-a836-11eb-87fa-168ed5e05758.png)
+
 
 <p align="center">
   <a href="https://luisfelipesdn12.now.sh/" target="_blank">
