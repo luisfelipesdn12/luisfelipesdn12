@@ -45,4 +45,4 @@
 
 ---
 ### Github Stats:
-![Github Stats](https://github-readme-stats.vercel.app/api/?username=luisfelipesdn12)
+![Github Stats](https://github-readme-stats.vercel.app/api/?username=luisfelipesdn12&theme=github_dark)
