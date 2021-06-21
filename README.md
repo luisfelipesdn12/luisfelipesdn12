@@ -13,9 +13,8 @@
   </a>
 </p>
 
-- 🎉 Full-Stack Software Engineer @ [Zyndicate](https://zyndicate.app)
+- 🎉 Full-Stack Software Engineer at [@Zyndicate](https://zyndicate.app)
 - 📝 I'm currently working with Typescript, React and GraphQL
-- ✔️ I've recently concluded a Backend Course [![check-certficate-badge](https://img.shields.io/badge/check-certificate-blue)](https://certificates.digitalinnovation.one/6CB93EFF)
 - 🎞️ I've gotten to programming from a video editing and design background
 - 🌐 My main language is Python, but I also love work with Go, TypeScript and JavaScript
 
