@@ -6,7 +6,8 @@ on:
     # execute every 12 hours
     - cron: "* */12 * * *"
   push:
-    branches: [main]
+    branches:
+      - 'master'
 
 jobs:
   build:
