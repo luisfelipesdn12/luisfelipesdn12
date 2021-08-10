@@ -16,7 +16,7 @@
 - 🎉 Full-Stack Software Engineer at [@Zyndicate](https://zyndicate.app)
 - 📝 I'm currently working with Typescript, React and GraphQL
 - 🎞️ I've gotten to programming from a video editing and design background
-- 🌐 My main language is Python, but I also love work with Go, TypeScript and JavaScript
+- 🌐 My main language is TypeScript, but I also love work with Python and Go
 
 ---
 ### Skills:
