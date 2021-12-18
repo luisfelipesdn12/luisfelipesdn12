@@ -13,8 +13,8 @@
   </a>
 </p>
 
-- 🎉 Full-Stack Software Engineer at [@Zyndicate](https://zyndicate.app)
-- 📝 I'm currently working with Typescript, React and GraphQL
+- 🎉 Web Developer at [YOUDevelop](https://youdevelop.app) & Full-Stack Software Engineer at [Redical](https://www.redical.io)
+- 📝 I'm currently working with Typescript, React, GraphQL and Firebase
 - 🎞️ I've gotten to programming from a video editing and design background
 - 🌐 My main language is TypeScript, but I also love work with Python and Go
 
@@ -48,8 +48,10 @@
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon AWS"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" alt="Pop! OS"/>
   <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
 </p>
