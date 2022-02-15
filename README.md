@@ -1,4 +1,4 @@
-![Hello, I'm Luis Felipe! I'm a computer science student and I can code for: automations, websites, machine learning, APIs and data science. My main languages are Python, TypeScript and Go.](https://user-images.githubusercontent.com/60361387/116454418-5902fb00-a836-11eb-87fa-168ed5e05758.png)
+![Hello, I'm Luis Felipe! I'm a computer science student and I can code for: automations, websites, machine learning, APIs and data science. My main languages are Python, TypeScript, and Go.](https://user-images.githubusercontent.com/60361387/116454418-5902fb00-a836-11eb-87fa-168ed5e05758.png)
 
 
 <p align="center">
@@ -13,7 +13,7 @@
   </a>
 </p>
 
-- 🎉 Web Developer at [YOUDevelop](https://youdevelop.app) & Full-Stack Software Engineer at [Redical](https://www.redical.io)
+- 🎉 Web Developer at [YOUDevelop](https://youdevelop.app) & Full-Stack Software Engineer at [Morph](https://www.morph.li)
 - 📝 I'm currently working with Typescript, React, GraphQL and Firebase
 - 🎞️ I've gotten to programming from a video editing and design background
 - 🌐 My main language is TypeScript, but I also love work with Python and Go
