@@ -13,7 +13,7 @@
   </a>
 </p>
 
-- 🎉 Web Developer at [YOUDevelop](https://youdevelop.app) & Full-Stack Software Engineer at [Redical](https://www.redical.io)
+- 🎉 Full-Stack Software Developer at [Origin9](https://www.origin9.com.br/)
 - 📝 I'm currently working with Typescript, React, GraphQL and Firebase
 - 🎞️ I've gotten to programming from a video editing and design background
 - 🌐 My main language is TypeScript, but I also love work with Python and Go
