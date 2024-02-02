@@ -1,6 +1,4 @@
-![Hello, I'm Luis Felipe! I'm a information system student and I can code for: automations, websites, machine learning, APIs and data science. My main languages are TypeScript, Python and Go.](https://github.com/luisfelipesdn12/luisfelipesdn12/assets/60361387/45916dd3-0283-4a87-896d-39b264e719ec)
-
-
+![Hello, I'm Luis Felipe! I'm a information system student and I can code for: automations, websites, machine learning, APIs and data science. My main languages are TypeScript, Python and Go.](https://github.com/luisfelipesdn12/luisfelipesdn12/assets/60361387/a3b549d1-679f-4ec5-a310-529850b25427)
 
 <p align="center">
   <a href="https://luisfelipesdn12.now.sh/" target="_blank">
