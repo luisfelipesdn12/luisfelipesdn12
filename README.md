@@ -1,4 +1,4 @@
-![Hello, I'm Luis Felipe! I'm a information system student and I can code for: automations, websites, machine learning, APIs and data science. My main languages are TypeScript, Python and Go.](https://github.com/luisfelipesdn12/luisfelipesdn12/assets/60361387/a3b549d1-679f-4ec5-a310-529850b25427)
+![Hello, I'm Luis Felipe! I'm a Full Stack developer, degree in systems development, information system student and I can code for: automations, websites, machine learning, APIs and data science. My main languages are TypeScript, Python and Go.](https://github.com/luisfelipesdn12/luisfelipesdn12/assets/60361387/e476faef-dcf2-4adb-8285-24681aba6520)
 
 <p align="center">
   <a href="https://luisfelipesdn12.now.sh/" target="_blank">
@@ -12,8 +12,8 @@
   </a>
 </p>
 
-- 🎉 Full-Stack Software Developer at [Origin9](https://www.origin9.com.br/)
-- 📝 I'm currently working with Typescript, React, GraphQL and Firebase
+- 🎉 Full-Stack Software Developer at [Allcom](https://allcomtelecom.com/)
+- 📝 I'm currently working with Typescript, React, Nextjs, GraphQL and Firebase
 - 🎞️ I've gotten to programming from a video editing and design background
 - 🌐 My main language is TypeScript, but I also love work with Python and Go
 
