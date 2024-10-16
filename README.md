@@ -56,7 +56,5 @@
 </p>
 
 ---
-### Github Stats:
-![Github Stats](https://github-readme-stats.vercel.app/api/?username=luisfelipesdn12&theme=github_dark)
 
 ![Snake animation with GitHub Contributions Chart](https://github.com/luisfelipesdn12/luisfelipesdn12/blob/snake-output/github-contribution-grid-snake.svg)
