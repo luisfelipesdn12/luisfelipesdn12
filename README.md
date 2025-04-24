@@ -12,7 +12,7 @@
   </a>
 </p>
 
-- 🎉 Full-Stack Software Developer at [Allcom](https://allcomtelecom.com/)
+- 🎉 Full-Stack Software Developer at [Painel Tap](https://paineltap.com.br/)
 - 📝 I'm currently working with Typescript, React, Nextjs, GraphQL and Firebase
 - 🎞️ I've gotten to programming from a video editing and design background
 - 🌐 My main language is TypeScript, but I also love work with Python and Go
